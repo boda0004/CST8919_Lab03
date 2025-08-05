@@ -51,7 +51,7 @@ The creation of all publicly accessible IP resources is blocked.
 | Deploy VM in Canada Central with ProjectName tag | ✅ Allowed |
 
 ##  Video Demo
-https://youtu.be/5MUAYOA5_JI
+https://youtu.be/i4AJq3dleaQ
 
 
 ### The facing challenges
